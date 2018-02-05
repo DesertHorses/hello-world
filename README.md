@@ -1,2 +1,3 @@
 # hello-world
 Learning GitHub
+I don't quite have a clue what I'm doing here yet but have to start somewhere...
